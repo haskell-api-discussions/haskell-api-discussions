@@ -63,3 +63,36 @@ Should we use these? (First instinct: wiki & project board seem like shit featur
 And another random thought:
 
 It would be _awesome_ to have a convenient way of generating haddocks for a library's API under discussion. Unfortunately I have no idea how that might work in a lightweight and automated fashion.
+
+---
+
+Update 3/15
+
+Start throwing together some formatted thoughts
+
+---
+
+## Haskell API Discussions
+
+### First time?
+
+Welcome! The purpose of this repository is to provide a discussion forum for Haskell programmers interested in improving the quality and ergonomics of our library ecosystem.
+
+Please participate in the issue tracker if any of the following apply to you:
+
+- You have an idea about how to improve a Haskell library's API, but would like feedback before contacting the library maintainer(s), which includes both:
+  - Simplifying a library by moving complexity out of the type system at the cost of more runtime errors
+  - Moving more invariants into the type system, increasing its complexity but making more impossible states unrepresentable
+- You have a bad experience using a Haskell library, and suspect its API could be improved, but don't yet have a concrete proposal
+- You want to flesh out an API for a library that doesn't exist yet
+- You want to discuss a library design technique in general (e.g. the use of [`backpack`](https://ghc.haskell.org/trac/ghc/wiki/Backpack))
+
+In general, your default mindset here should be: backwards-compatibilty be damned. Let's first try to navigate to the _ideal_ solution to a problem, and then reflect on how realistic it is to actually get there.
+
+For example, the [first issue](https://github.com/haskell-api-discussions/haskell-api-discussions/issues/1) I created discusses modifications to the `Spec` type in `hspec`. This library is so widely used that my suggestions here may well border on embarrassing naïveté - but I should not be discouraged from making them in the first place (nor should I be immune from criticism).
+
+### More thoughts
+
+This is an experimental and unconventional "forum" based entirely on the observation by @seagreen that Haskell programmers _love_ designing APIs. We, as a community, could benefit greatly from _one_ place on the Internet to deliberate best practices, suggest concrete improvements to real libraries, and so on. The more opinions we have here, the better, so please, spread the word far and wide.
+
+TODO finish these thoughts
