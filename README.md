@@ -2,6 +2,8 @@
 
 This is an experimental and unconventional "forum" based on the observation that Haskell programmers _love_ designing typed APIs. Its purpose is to provide a place to discuss improving the quality and ergonomics of our library ecosystem.
 
+[Take me there!](https://github.com/haskell-api-discussions/haskell-api-discussions/issues)
+
 ### Example use cases
 
 + You'd like feedback on an unpublished library
@@ -16,11 +18,9 @@ This is an experimental and unconventional "forum" based on the observation that
 
 In general, let's not limit our ideas based on concerns of breaking backwards compatibility. That is, let's first try to navigate towards the ideal solution to a problem, and then reflect on how realistic it is to actually get there.
 
-Please feel free to open a new issue at any time!
-
 ### Rules
 
-There really are no hard rules, but I would like to maintain a friendly environment for programmers of all skill levels. Here are some communication guidelines:
+There really are no hard rules, but we'd like to maintain a friendly environment for programmers of all skill levels. Here are some communication guidelines:
 
 1. Help keep discussions on track.
 
