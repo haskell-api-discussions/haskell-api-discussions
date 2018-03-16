@@ -1,6 +1,6 @@
 ### Summary
 
-This is an experimental and unconventional "forum" based on the observation that Haskell programmers _love_ designing typed APIs. Its purpose is to provide a place to discuss improving the quality and ergonomics of our library ecosystem.
+This is an experimental "forum" based on the observation that Haskell programmers _love_ designing typed APIs. Its purpose is to provide a place to discuss improving the quality and ergonomics of our library ecosystem.
 
 [Take me there!](https://github.com/haskell-api-discussions/haskell-api-discussions/issues)
 
@@ -24,7 +24,7 @@ There really are no hard rules, but we'd like to maintain a friendly environment
 
 1. Help keep discussions on track.
 
-   GitHub issues are linear and commends cannot be deleted or collapsed, so be mindful of accidentally derailing a thread.
+   GitHub issues are linear and comments cannot be collapsed, so be mindful of accidentally derailing a thread.
 
 2. Avoid using the thumbs-down emoji.
 
