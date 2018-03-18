@@ -1,8 +1,10 @@
+## Haskell API Discussions
+
 ### Summary
 
-This is an experimental "forum" based on the observation that Haskell programmers _love_ designing typed APIs. Its purpose is to provide a place to discuss improving the quality and ergonomics of our library ecosystem.
+This is an experimental "forum" based on the observation that Haskell programmers love designing typed APIs. Its purpose is to provide a place to discuss improving the quality and ergonomics of our library ecosystem.
 
-[Take me there!](https://github.com/haskell-api-discussions/haskell-api-discussions/issues)
+#### [Take me there!](https://github.com/haskell-api-discussions/haskell-api-discussions/issues)
 
 ### Example use cases
 
@@ -29,3 +31,5 @@ There really are no hard rules, but we'd like to maintain a friendly environment
 2. Avoid using the thumbs-down emoji.
 
    To keep the conversation constructive, consider explaining any disagreement you have with words.
+
+#### [Take me there!](https://github.com/haskell-api-discussions/haskell-api-discussions/issues)
