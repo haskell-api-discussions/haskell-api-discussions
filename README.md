@@ -1,13 +1,3 @@
-~ Beta! Beta! Beta! ~
-
-Welcome to Haskell API Discussions, an inchoate hub for discussing the, blah
-blah blah, see the latest README draft below. This repo hasn't been properly
-announced on any communication channels (Reddit, haskell-cafe), so for the time
-being it's only me talking to myself in the issue tracker and fleshing out how
-this might actually work.
-
----
-
 ## Haskell API Discussions
 
 ### Summary
